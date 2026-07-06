@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![](https://komarev.com/ghpvc/?username=aadildevexplorer&color=green)
 
-🔭 I’m currently working on<br>MERN stack projects to strengthen my understanding of frontend and backend integration.<br><br>👯 I’m looking to collaborate on<br>Junior-friendly open-source projects and team projects where I can learn from experienced developers.<br><br>🤝 I’m looking for help with<br>Best practices in React, clean backend architecture, and improving problem-solving skills.<br><br>🌱 I’m currently learning<br>JavaScript (advanced concepts), React, Node.js, Express, and MongoDB.<br><br>💬 Ask me about<br>Basic JavaScript, React components, REST APIs, and simple full-stack projects.<br><br>⚡ Fun fact<br>I learn more from bugs than from tutorials.
+🔭 I’m currently working on<br>MERN Stack Projects to strengthen my understanding of frontend and backend integration.<br><br>👯 I’m looking to collaborate on<br>Junior-friendly open-source projects and team projects where I can learn from experienced developers.<br><br>🤝 I’m looking for help with<br>Best practices in React, clean backend architecture, and improving problem-solving skills.<br><br>🌱 I’m currently learning<br>JavaScript (advanced concepts), React, Node.js, Express, and MongoDB.<br><br>💬 Ask me about<br>Basic JavaScript, React components, REST APIs, and simple full-stack projects.<br><br>⚡ Fun fact<br>I learn more from bugs than from tutorials.
 
 
 ## 🌐 Socials:
