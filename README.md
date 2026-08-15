@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Aadil
 
-### MERN Stack Developer | React.js | Node.js | Express.js | MongoDB
+### MERN Stack Developer | MongoDB | Express.js | React.js | Node.js |
 
 I’m a **MERN Stack Developer** focused on building modern, scalable, and responsive web applications.
 
