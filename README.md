@@ -92,36 +92,3 @@ A published JavaScript utility package available through npm.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/aadilllkkkhhhaaannn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aadilkhan04610461@gmail.com)
 
----
-
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=aadildevexplorer\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=aadildevexplorer\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadildevexplorer\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aadildevexplorer\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
-
-## 📈 Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=aadildevexplorer\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
-### 💡 Developer Mindset
-
-> Build. Break. Debug. Learn. Repeat.
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=aadildevexplorer\&color=green)
-
-<!-- Profile README maintained by Mohammad Aadil -->
