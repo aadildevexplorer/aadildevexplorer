@@ -30,7 +30,7 @@ scalable and responsive web applications.
 <li>☁️ Exploring AWS, Docker, Redis and Kafka</li>
 <li>🤖 Integrating AI-powered features into web applications</li>
 <li>📦 Published JavaScript packages on npm</li>
-<li>🛠️ Focused on clean code and reusable components</li>
+<li>🛠️ Focused on clean code, reusable components and practical solutions</li>
 </ul>
 
 </td>
@@ -57,34 +57,163 @@ width="100%"
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,redis,kafka,docker,aws,git,github,vite,tailwind&perline=9" />
 
 </p>
-<h2>📊 GitHub Stats</h2> <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadildevexplorer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadildevexplorer&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<!-- ===================== GITHUB STATS ===================== -->
 
-</p> <!-- ===================== CONTRIBUTION ===================== --> <h2>🔥 Contribution Streak</h2> <p align="center">
+<h2>📊 GitHub Stats</h2>
 
-<img src="https://streak-stats.demolab.com?user=aadildevexplorer&theme=tokyonight&hide_border=true" width="70%" />
+<p align="center">
 
-</p> <!-- ===================== REPOSITORIES ===================== --> <h2>📂 Some of my Repositories</h2> <table> <tr> <td width="50%"> <a href="https://github.com/aadildevexplorer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=casualstore&theme=tokyonight&hide_border=true" /> </a> </td> <td width="50%"> <a href="https://github.com/aadildevexplorer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=investigatr&theme=tokyonight&hide_border=true" /> </a> </td> </tr> <tr> <td width="50%"> <a href="https://github.com/aadildevexplorer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=npm-md-aadil&theme=tokyonight&hide_border=true" /> </a> </td> <td width="50%"> <a href="https://github.com/aadildevexplorer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=Finance-Dashboard-System&theme=tokyonight&hide_border=true" /> </a> </td> </tr> </table> <!-- ===================== CONNECT ===================== --> <h2>🌐 Connect With Me</h2> <p align="center"> <a href="https://www.linkedin.com/in/mohammad-aadil-9794712bb/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://mdaadil.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://instagram.com/aadilllkkkhhhaaannn"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:aadilkhan04610461@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <!-- ===================== PROFILE VIEWS ===================== --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadildevexplorer&label=Profile%20Views&color=0e75b6&style=flat"/> </p> <!-- ===================== FOOTER ===================== --> <div align="center">
-💙 Thanks for visiting my profile!
+<img
+src="https://github-readme-stats.vercel.app/api?username=aadildevexplorer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="165"
+/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=100&section=footer" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadildevexplorer&layout=compact&theme=tokyonight&hide_border=true"
+height="165"
+/>
 
-</div> ```
+</p>
 
-<!-- ===================== ABOUT ===================== -->
 
-<h2>💻 What I Work With</h2>
+<!-- ===================== REPOSITORIES ===================== -->
 
-```text
-Frontend        → React.js, Redux Toolkit, TypeScript, Tailwind CSS
-Backend         → Node.js, Express.js, REST APIs
-Database        → MongoDB, MySQL
-Authentication  → JWT, Authentication & Authorization
-DevOps          → Docker, AWS
-Caching         → Redis
-Messaging       → Kafka
-AI              → AI API Integration, AI-powered Features
-Tools           → Git, GitHub, VS Code, Postman
+<h2>📂 Some of my Repositories</h2>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/aadildevexplorer/casualstore">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=casualstore&theme=tokyonight&hide_border=true"
+width="100%"
+/>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/aadildevexplorer/investigatr">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=investigatr&theme=tokyonight&hide_border=true"
+width="100%"
+/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/aadildevexplorer/npm-md-aadil">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=npm-md-aadil&theme=tokyonight&hide_border=true"
+width="100%"
+/>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/aadildevexplorer/Finance-Dashboard-System">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=Finance-Dashboard-System&theme=tokyonight&hide_border=true"
+width="100%"
+/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammad-aadil-9794712bb/">
+
+<img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+
+</a>
+
+<a href="https://mdaadil.vercel.app/">
+
+<img
+src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+/>
+
+</a>
+
+<a href="https://instagram.com/aadilllkkkhhhaaannn">
+
+<img
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+/>
+
+</a>
+
+<a href="mailto:aadilkhan04610461@gmail.com">
+
+<img
+src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+/>
+
+</a>
+
+</p>
+
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=aadildevexplorer&label=Profile%20Views&color=0e75b6&style=flat"
+/>
+
+</p>
+
+
+<!-- ===================== FOOTER ===================== -->
+
+<br>
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+%F0%9F%9A%80"
+/>
+
+</p>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=100&section=footer"
+width="100%"
+/>
+
+</div>
