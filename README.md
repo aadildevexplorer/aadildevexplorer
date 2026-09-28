@@ -1,246 +1,132 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!---------------------------- Banner Image ----------------------------->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:123b78,100:1d4ed8&height=180&section=header&text=MOHAMMAD%20AADIL&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=62&descSize=16"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:123b78,100:2563eb&height=180&section=header&text=Mohammad%20Aadil&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20Modern%20Web%20Applications&descAlignY=62&descSize=16"
 width="100%"
 />
 
 </div>
 
 
-<!-- ===================== INTRODUCTION ===================== -->
+<!---------------------------- Typewriter animation ----------------------------->
 
-<table>
-<tr>
+# Hello👋, I'm Mohammad Aadil! 😇
 
-<td width="55%" valign="top">
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+MERN+Stack+Developer;I'm+a+Full+Stack+Web+Developer;I'm+a+React.js+Developer;I'm+a+Node.js+Developer;I'm+exploring+AI+Integration)
 
-<h2>👋 Hi, I'm Mohammad Aadil</h2>
 
-<h3>I'm a MERN Stack Developer</h3>
-
-<p>
-I'm a <b>MERN Stack Developer</b> focused on building modern,
-scalable and responsive web applications.
-</p>
-
-<ul>
-<li>🚀 Building full-stack web applications and REST APIs</li>
-<li>💻 Working with React.js, Node.js, Express.js & MongoDB</li>
-<li>🔐 Implementing authentication, authorization and secure APIs</li>
-<li>☁️ Exploring AWS, Docker, Redis and Kafka</li>
-<li>🤖 Integrating AI-powered features into web applications</li>
-<li>📦 Published JavaScript packages on npm</li>
-<li>🛠️ Focused on clean code, reusable components and practical solutions</li>
-</ul>
-
-</td>
-
-<td width="45%" align="center">
+<!---------------------------- About Me ----------------------------->
 
 <img
+align="right"
+alt="Developer"
 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-width="95%"
+height="250"
+width="375"
 />
 
-</td>
+- 🚀 Building modern, scalable and responsive **full-stack web applications**.
+- 👨‍💻 Working with **React.js, Node.js, Express.js and MongoDB**.
+- 🔐 Implementing **authentication, authorization and secure REST APIs**.
+- 🧩 Working with **Redux Toolkit, TypeScript and modern frontend tools**.
+- ☁️ Exploring **AWS, Docker, Redis and Kafka**.
+- 🤖 Integrating **AI-powered features** into web applications.
+- 📦 Published **JavaScript packages on npm**.
+- 🛠️ Focused on **clean code, reusable components and practical solutions**.
+- 🌐 Check out my portfolio: **[mdaadil.vercel.app](https://mdaadil.vercel.app/)**
+- 📫 Reach me at: <a href="mailto:aadilkhan04610461@gmail.com">aadilkhan04610461@gmail.com</a>
 
-</tr>
-</table>
+<br>
+<br>
 
 
-<!-- ===================== TECH BACKPACK ===================== -->
+<!---------------------------- My Skills Section ----------------------------->
 
-<h3>🛠️ Tech Backpack</h3>
+## 🛠️ Tech Backpack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mongodb,mysql,redux,vite,tailwind,redis,kafka,docker,aws,git,github,postman&perline=10" />
+<img
+src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,nodejs,express,mongodb,mysql,redis,kafka,docker,aws,git,github,postman,vscode"
+align="center"
+/>
 
 </p>
 
+<br>
 
-<!-- ===================== REPOSITORIES ===================== -->
 
-<h3>📂 Some of my Repositories</h3>
+<!----------------------------- Open Source Projects --------------------------->
 
-<table>
+## 🔖 Some of my Repositories
 
-<tr>
-
-<td width="33%" valign="top">
+<p align="left">
 
 <a href="https://github.com/aadildevexplorer/casualstore">
-
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=casualstore&theme=dark&hide_border=true"
-width="100%"
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=casualstore&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true"
+alt="casualstore"
 />
-
 </a>
-
-</td>
-
-<td width="33%" valign="top">
 
 <a href="https://github.com/aadildevexplorer/investigatr">
-
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=investigatr&theme=dark&hide_border=true"
-width="100%"
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=investigatr&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true"
+alt="investigatr"
 />
-
 </a>
-
-</td>
-
-<td width="33%" valign="top">
 
 <a href="https://github.com/aadildevexplorer/npm-md-aadil">
-
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=npm-md-aadil&theme=dark&hide_border=true"
-width="100%"
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=npm-md-aadil&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true"
+alt="npm-md-aadil"
 />
-
 </a>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="33%" valign="top">
 
 <a href="https://github.com/aadildevexplorer/Finance-Dashboard-System">
-
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=Finance-Dashboard-System&theme=dark&hide_border=true"
-width="100%"
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aadildevexplorer&repo=Finance-Dashboard-System&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true"
+alt="Finance Dashboard System"
 />
-
 </a>
 
-</td>
-
-<td width="33%" valign="top">
-
-<!-- Add another public repository here -->
-
-</td>
-
-<td width="33%" valign="top">
-
-<!-- Add another public repository here -->
-
-</td>
-
-</tr>
-
-</table>
-
-
-<!-- ===================== ALL REPOSITORIES ===================== -->
+</p>
 
 <p align="left">
 
 <a href="https://github.com/aadildevexplorer?tab=repositories">
 
 <img
-src="https://img.shields.io/badge/➡️%20ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"
+alt="All Repositories"
+title="All Repositories"
+src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"
 />
 
 </a>
 
 </p>
 
-
-<!-- ===================== PRIVATE PROJECTS ===================== -->
-
-<h3>🔐 Some of my Private Repositories</h3>
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<div>
-
-<h3>📁 Gulshan-E-Iqbal-Media-Storage</h3>
-
-<p>
-A full-stack media storage platform built with MERN stack,
-Cloudflare R2 and folder-based media management.
-</p>
-
-<p>
-<b>Tech:</b> React.js • Node.js • Express.js • MongoDB • Cloudflare R2
-</p>
-
-</div>
-
-</td>
+<br>
+<br>
 
 
-<td width="33%" valign="top">
+<!----------------------------- Private Projects --------------------------->
 
-<div>
-
-<h3>🤖 AI Chat Application</h3>
-
-<p>
-AI-powered chat application focused on intelligent conversations,
-RAG workflow and modern AI integrations.
-</p>
-
-<p>
-<b>Tech:</b> React.js • Node.js • AI APIs • RAG • Vector DB
-</p>
-
-</div>
-
-</td>
-
-
-<td width="33%" valign="top">
-
-<div>
-
-<h3>💳 Billing Software</h3>
-
-<p>
-Custom billing management system with analytics,
-billing operations and administrative features.
-</p>
-
-<p>
-<b>Tech:</b> React.js • Node.js • Express.js • MongoDB
-</p>
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
-
-
-<!-- ===================== CONNECT WITH ME ===================== -->
-
-<h3>🌐 Connect With Me</h3>
+## 🔐 Some of my Private Projects
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mohammad-aadil-9794712bb/">
+<a href="https://mdaadil.vercel.app/">
 
 <img
-src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+width="278"
+src="https://img.shields.io/badge/Gulshan--E--Iqbal%20Media%20Storage-20232a?style=for-the-badge&logo=cloudflare&logoColor=white"
 />
 
 </a>
@@ -248,23 +134,74 @@ src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linke
 <a href="https://mdaadil.vercel.app/">
 
 <img
-src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"
+width="278"
+src="https://img.shields.io/badge/AI%20Chat%20Application-20232a?style=for-the-badge&logo=openai&logoColor=white"
 />
 
 </a>
 
-<a href="https://instagram.com/aadilllkkkhhhaaannn">
+<a href="https://mdaadil.vercel.app/">
 
 <img
-src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+width="278"
+src="https://img.shields.io/badge/Billing%20Software-20232a?style=for-the-badge&logo=moneygram&logoColor=white"
 />
 
 </a>
+
+</p>
+
+<p>
+
+🔒 **Gulshan-E-Iqbal Media Storage** — MERN-based media storage platform with Cloudflare R2, folders, uploads, sharing and storage management.
+
+🤖 **AI Chat Application** — AI-powered application exploring RAG, Vector Database and AI integration.
+
+💳 **Billing Software** — Custom billing system with admin management, billing operations and analytics.
+
+</p>
+
+<br>
+
+
+<!--------------------------------- Social Links --------------------------------->
+
+## 🤝🏻 Connect with Me
+
+<p align="left">
 
 <a href="mailto:aadilkhan04610461@gmail.com">
 
 <img
-src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+height="30"
+src="https://img.shields.io/badge/Gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"
+/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/mohammad-aadil-9794712bb/">
+
+<img
+height="30"
+src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+
+</a>
+
+<a href="https://www.instagram.com/aadilllkkkhhhaaannn/">
+
+<img
+height="30"
+src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"
+/>
+
+</a>
+
+<a href="https://mdaadil.vercel.app/">
+
+<img
+height="30"
+src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=vercel&logoColor=white"
 />
 
 </a>
@@ -272,35 +209,22 @@ src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&lo
 </p>
 
 
-<!-- ===================== PROFILE VIEWS ===================== -->
+<!--------------------------------- Profile Views --------------------------------->
 
 <p align="left">
 
 <img
-src="https://komarev.com/ghpvc/?username=aadildevexplorer&label=PROFILE%20VIEWS&color=0e75b6&style=flat"
+src="https://komarev.com/ghpvc/?username=aadildevexplorer&label=Profile%20Views&color=0e75b6&style=flat"
 />
 
 </p>
 
 
-<!-- ===================== THANK YOU ===================== -->
-
-<p>
+<!---------------------------------  Marquee Animation  ------------------------>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF66&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+🚀"
-/>
-
-</p>
-
-
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:123b78,100:1d4ed8&height=90&section=footer"
+height="100"
+alt="Thanks for visiting me"
 width="100%"
+src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"
 />
-
-</div>
