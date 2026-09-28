@@ -115,110 +115,25 @@ src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=fo
 <br>
 <br>
 
-
-<!----------------------------- Private Projects --------------------------->
-
-## 🔐 Some of my Private Projects
-
-<p align="left">
-
-<a href="https://mdaadil.vercel.app/">
-
-<img
-width="278"
-src="https://img.shields.io/badge/Gulshan--E--Iqbal%20Media%20Storage-20232a?style=for-the-badge&logo=cloudflare&logoColor=white"
-/>
-
-</a>
-
-<a href="https://mdaadil.vercel.app/">
-
-<img
-width="278"
-src="https://img.shields.io/badge/AI%20Chat%20Application-20232a?style=for-the-badge&logo=openai&logoColor=white"
-/>
-
-</a>
-
-<a href="https://mdaadil.vercel.app/">
-
-<img
-width="278"
-src="https://img.shields.io/badge/Billing%20Software-20232a?style=for-the-badge&logo=moneygram&logoColor=white"
-/>
-
-</a>
-
-</p>
-
-<p>
-
-🔒 **Gulshan-E-Iqbal Media Storage** — MERN-based media storage platform with Cloudflare R2, folders, uploads, sharing and storage management.
-
-🤖 **AI Chat Application** — AI-powered application exploring RAG, Vector Database and AI integration.
-
-💳 **Billing Software** — Custom billing system with admin management, billing operations and analytics.
-
-</p>
-
-<br>
-
-
 <!--------------------------------- Social Links --------------------------------->
 
 ## 🤝🏻 Connect with Me
 
-<p align="left">
-
-<a href="mailto:aadilkhan04610461@gmail.com">
-
-<img
-height="30"
-src="https://img.shields.io/badge/Gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"
-/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-aadil-9794712bb/">
-
-<img
-height="30"
-src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-/>
-
-</a>
-
-<a href="https://www.instagram.com/aadilllkkkhhhaaannn/">
-
-<img
-height="30"
-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"
-/>
-
-</a>
-
-<a href="https://mdaadil.vercel.app/">
-
-<img
-height="30"
-src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=vercel&logoColor=white"
-/>
-
-</a>
-
-</p>
-
-
-<!--------------------------------- Profile Views --------------------------------->
-
-<p align="left">
-
-<img
-src="https://komarev.com/ghpvc/?username=aadildevexplorer&label=Profile%20Views&color=0e75b6&style=flat"
-/>
-
-</p>
-
+> <a href="mailto:aadilkhan04610461@gmail.com">
+> <img height="30" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+> </a>
+>
+> <a href="https://www.linkedin.com/in/mohammad-aadil-9794712bb/">
+> <img height="30" src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+> </a>
+>
+> <a href="https://www.instagram.com/aadilllkkkhhhaaannn/">
+> <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+> </a>
+>
+> <a href="https://mdaadil.vercel.app/">
+> <img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+> </a>
 
 <!---------------------------------  Marquee Animation  ------------------------>
 
