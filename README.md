@@ -102,6 +102,7 @@ alt="Finance Dashboard System"
 <a href="https://github.com/aadildevexplorer?tab=repositories">
 
   <img
+    href="https://github.com/aadildevexplorer?tab=repositories"
     alt="All Repositories"
     title="All Repositories"
     src="https://img.shields.io/badge/All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"
